@@ -1,0 +1,1 @@
+droidfire is a wildfire s kernel with loaded modules from kernel 3
